@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I was 16<br>📚 I'm currently learning Fedora Linux<br></p>
+<p align="left">✨ Creating bugs since I was 16<br>📚 I'm currently learning RAG <br></p>
 
 ###
 
@@ -60,6 +60,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Syed-Ahmed02/Syed-Ahmed02/output/snake.svg" alt="Snake animation" />
 
 ###
