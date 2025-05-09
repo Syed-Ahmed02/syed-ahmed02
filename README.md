@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I was 16<br>📚 I'm currently learning RAG <br></p>
+<p align="left">✨ Creating bugs since I was 16<br>🚀 Currently working on a [Ai Roadmap Generator!](https://roadmaps.syedd.com/) <br></p>
 
 ###
 
