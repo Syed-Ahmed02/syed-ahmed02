@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Syed Ahmed and I'm a 4th Computer Science Student & Aspiring full stack developer, from Canada</p>
+<p align="left">My name is Syed a Full Stack AI Engineer, from Canada</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I was 16<br>🚀 Currently working on a <a href="https://roadmaps.syedd.com/">Ai Roadmap Generator!</a> <br></p>
+<p align="left"><br>🚀I Build Stuff, checkout some of my projects :) <br></p>
 
 ###
 
